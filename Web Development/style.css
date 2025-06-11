@@ -1,0 +1,29 @@
+body {
+  background-color: #ffe694;
+}
+
+header {
+  background-color: #ff3636;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.project {
+  background: #bbd717;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+#projects{
+    padding: 25px;
+    background-color: rgb(88, 187, 45);
+    border-radius: 50px;
+}
+#about{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 25px;
+    background-color: rgb(88, 187, 45);
+    border-radius: 50px;
+}
