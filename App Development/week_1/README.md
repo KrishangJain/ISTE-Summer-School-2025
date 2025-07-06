@@ -1,16 +1,13 @@
-# week_1
+# ISTE-Summer-School-2025
+# App Development
+# Week 1
 
-A new Flutter project.
+The following tasks were assigned:
 
-## Getting Started
+Set up Flutter environment
+Learn Dart basics
+Practice Dart programming
+Understand Flutter widgets
+Build a static app with name and button
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Solution for the task has been uploaded.
