@@ -4,15 +4,15 @@
 
 The following tasks were assigned:
 
-Set up Flutter environment
+    Set up Flutter environment
 
-Learn Dart basics
+    Learn Dart basics
 
-Practice Dart programming
+    Practice Dart programming
 
-Understand Flutter widgets
+    Understand Flutter widgets
 
-Build a static app with name and button
+    Build a static app with name and button
 
 
 Solution for the task has been uploaded.

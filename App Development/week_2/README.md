@@ -4,13 +4,13 @@
 
 The following tasks were assigned:
 
-Learn Flutter widgets in detail
+    Learn Flutter widgets in detail
 
-Understand layout in Flutter
+    Understand layout in Flutter
 
-Implement navigation patterns
+    Implement navigation patterns
 
-Build a project with widgets and navigation
+    Build a project with widgets and navigation
 
 
 Solution for the task has been uploaded.

@@ -4,17 +4,17 @@
 
 The following tasks were assigned:
 
-Learn Basic Networking & How the Internet Works
+    Learn Basic Networking & How the Internet Works
 
-HTML & CSS Deep Dive
+    HTML & CSS Deep Dive
 
-JavaScript Basics (Variables, data types, functions)
+    JavaScript Basics (Variables, data types, functions)
 
-Learn Version Control with Git & GitHub
+    Learn Version Control with Git & GitHub
 
-Build and host a personal portfolio webpage
+    Build and host a personal portfolio webpage
 
-Set up GitHub repo, commit changes, push project
+    Set up GitHub repo, commit changes, push project
 
 
 Solution for the task has been uploaded.
